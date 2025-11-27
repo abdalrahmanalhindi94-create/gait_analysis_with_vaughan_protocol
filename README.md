@@ -1,6 +1,6 @@
 # Gait Analysis with Vaughan Protocol
 
-This project implements the **Vaughan kinematic gait analysis protocol** using experimental 3D motion-capture data collected in the university biomechanics laboratory.  
+This project implements the **Vaughan kinematic gait analysis protocol** using experimental 3D motion-capture data collected in the universita politechnica delle marche biomechanics laboratory.  
 The MATLAB script preprocesses marker trajectories, extracts a full gait cycle, computes anatomical joint angles (hip, knee, ankle), and generates plots for all three planes of movement.
 
 ---
